@@ -1,0 +1,16 @@
+---
+
+---
+
+## Work in progress
+
+### Effect of the increase of the educational supply on schooling and adolescent work in rural Peru
+In the last 12 years, 1809 secondary-level educational services have been established in the Peruvian rural area, where the total of active secondary services is 4230. That means, about 40 % of the current educational supply of the secondary level in rural areas is recent. This project attempts to identify the effects of said expansion on schooling and teenage labor participation in rural areas. A generalized difference in differences method is used, relying on information from the National Household Surveys (2004-2017) and the Register of Educational Institutions of the Ministry of Education. Among the findings, I found that the increase in educational services in the rural area has had an impact on school enrollment, on the years of education attained and on the prevalence of teenage labor. However, heterogeneous effects are discussed related to differences in the intensity of rurality and the gender of adolescents.
+
+This project was a winner of the First Scholarship Contest for Young Researchers of the Sociedad de Investigación Educativa Peruana (SIEP). Its current findings were presented in the VI Seminario Nacional de Investigación Educativa organized by the SIEP, , in an Economics Workshop at Universidad Nacional Mayor de San Marcos, and at UNICEF Peru Country Office, under the title "Efecto del aumento de la oferta educativa en la escolaridad y el trabajo adolescente en el Perú rural" .
+
+### The impact of B corporations on the economic and social inclusion of women in Latin America, a pseudo-experimental approach
+*(with J. Dávalos, M.A. Prialé, and E. F. Ninahuanca)*
+
+This study estimates the causal impact of female entrepreneurship on purpose-driven companies (i.e. exhibit responsible entrepreneurship) and of purpose-driven companies on female employment. We empirical analyse a Latin American sample of companies that participated in the B Impact Assessment questionnaire. Given the significant imbalance in this longitudinal database, we adopt a pseudo-experimental methodology (instrumental variables) with a dimension reduction and imputation algorithm technique. Our results suggest that, while female entrepreneurship has a positive influence on responsible entrepreneurship, there is no significant effect of responsible entrepreneurship on female employment.
+

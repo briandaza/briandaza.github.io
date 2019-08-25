@@ -1,5 +1,5 @@
 ---
-
+title: "Brian Daza"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -13,3 +13,5 @@ I'm Research Assistant at [Universidad del Pacífico Research Center](https://ci
 I earned a B.Sc. in Economics from Universidad Nacional Mayor de San Marcos and I have been admitted to the [Master Program in Data, Economics, and Development Policy](https://micromasters.mit.edu/dedp/blended-masters-program/) at the Massachusetts Institute of Technology for the class of 2020.
 
 I am interested in pursuing an academic career in the field of Development Economics.
+
+You can contact me at [dazavbn@gmail.com](mailto:dazavbn@gmail.com)

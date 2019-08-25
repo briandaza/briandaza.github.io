@@ -11,7 +11,7 @@ navbar:
       href: cv.html
   right:
     - icon: fa-envelope fa-lg
-      href: contact.html
+      href: mailto:dazavbn@gmail.com
     - icon: fa-github fa-lg
       href: http://github.com/briandaza
     - icon: fa-twitter fa-lg
