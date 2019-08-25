@@ -1,12 +1,10 @@
 ---
-title: "Brian Daza"
+title: "About me"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/BrianDaza.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="left">
-
-Welcome, thank you for visiting my homepage.
+<img src="images/BrianDaza.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="right">
 
 I'm Research Assistant at [Universidad del Pacífico Research Center](https://ciup.up.edu.pe/), where I'm working for [Jorge Dávalos](http://www.up.edu.pe/en/Paginas/professor-profile.aspx?idd=000168211). During my assistantship, I have acquired experience in statistical modeling and microeconometrics in research projects related to environmental economics and labor economics.
 
