@@ -2,6 +2,6 @@
 
 ---
 
-If you can't see my cv below, you can find it here: [here](https://drive.google.com/file/d/1VqwHeTfZmp5alm9VYIQh-j-veMKbBwHL/view?usp=sharing)
+If you can't see my cv below, you can find it [here](https://drive.google.com/file/d/1VqwHeTfZmp5alm9VYIQh-j-veMKbBwHL/view?usp=sharing)
 
 <iframe src="cv - Brian Daza.pdf" width="100%" height="500px">    </iframe>
