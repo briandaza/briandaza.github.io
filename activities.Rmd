@@ -1,8 +1,10 @@
 ---
-title: "Activities and Media"
+title: "Activities"
 ---
-## Conferences and seminars
+<!-- {.tabset .tabset-fade .tabset-pills} -->
+# {.tabset .tabset-fade}
 
+## Conferences and seminars
 
 I've been featured in some summary videos of academic events I had participated. You can see them embedded here.
 
@@ -13,3 +15,28 @@ I've been featured in some summary videos of academic events I had participated.
 - VI National Seminar on Education Research of the Peruvian Society of Educational Research (2018)
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FdelaSIEP%2Fvideos%2F2069022166528690%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+## Central Reserve Bank of Perú's Extension Courses
+
+<div class = "row">
+  
+<div class = "col-md-6" align="justify">
+<br>During my last semesters at San Marcos, and shortly after graduating, I participated in the extension courses organized by the Central Reserve Bank of Perú both in Advanced Economics (2015) and Advanced Finance (2017). These are the most prestigious extension programs for undergraduate students in Peru in Economics and Finance. Only the top 36 students out of around 700 applicants among the best students in the country are usually admitted through a highly competitive selection process. These programs include graduate-level courses in macroeconomics, econometrics, microeconomics, mathematics, finance, and public policies.
+
+<img src="images/Christiano.jpg" style="width:100%; border:1px solid; margin-right: 0px" align="right">
+
+With Professor Lawrence Christiano. After his classes on New Keynesian Macroeconomics. 2015
+
+</div>
+  
+<div class = "col-md-6" align="justify">
+<br>
+<img src="images/unmsm2017.jpg" style="width:100%; border:1px solid; margin-right: 0px" align="right">
+
+With all the other students from Universidad Nacional Mayor de San Marcos, selected both to Advanced Finance or Advanced Economics programs. 2017
+
+<img src="images/bcrp2015.jpg" style="width:100%; border:1px solid; margin-right: 0px" align="right">
+
+With my classmates at a brief celebration of my birthday between classes. 2015
+</div>
+</div>
