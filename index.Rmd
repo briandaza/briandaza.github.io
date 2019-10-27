@@ -3,6 +3,7 @@ title: "About me"
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133529875-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -12,11 +13,13 @@ title: "About me"
   gtag('config', 'UA-133529875-2');
 </script>
 
+<!-- If you are using this code as a reference for your own website, please DO NOT COPY the previous part. That commands are aimed to allow Google Analytics to analize the visits to my webpage. You can generate yours free in Google Analytics  webpage.-->
+
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <img src="images/BrianDaza.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="right">
 
-I earned a B.Sc. in Economics from Universidad Nacional Mayor de San Marcos and I have been admitted to the [Master Program in Data, Economics, and Development Policy](https://micromasters.mit.edu/dedp/blended-masters-program/) at the Massachusetts Institute of Technology for the class of 2020.
+I earned a B.Sc. in Economics from Universidad Nacional Mayor de San Marcos and I have been admitted to the [Master Program in Data, Economics, and Development Policy](https://economics.mit.edu/masters/current) at the Massachusetts Institute of Technology for the class of 2020.
 
 I'm currently Research Assistant at [Universidad del Pacífico Research Center](https://ciup.up.edu.pe/), where I'm working for [Jorge Dávalos](http://www.up.edu.pe/en/Paginas/professor-profile.aspx?idd=000168211). During my assistantship, I have acquired experience in statistical modeling and microeconometrics in research projects related to environmental economics and labor economics.
 
