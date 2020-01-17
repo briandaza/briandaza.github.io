@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "About me"
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -23,15 +23,20 @@ title: " "
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
  -->
 
+---
+
 <div class = "row">
-  
+
 <div class = "col-md-3" align="center">
-<br>
+
 <img src="images/BrianDazaCircle.png" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+
 
 <font size="5"> Brian Daza </font>
 
-Research Assistant at CIUP
+Master in DEDP Student
+
+[Massachusetts Institute of Technology](https://economics.mit.edu/masters)
 
 <p style="text-align: center;">
     <a href="mailto:dazavbn@gmail.com" class="fa fa-envelope"></a>
@@ -43,13 +48,14 @@ Research Assistant at CIUP
 </div>
   
 <div class = "col-md-9" align="justify">
-<br>
+I am a student in the [Master Program in Data, Economics, and Development Policy](https://economics.mit.edu/masters/current) at the Massachusetts Institute of Technology. Previously, I earned a B.Sc. in Economics from Universidad Nacional Mayor de San Marcos.
 
-I am a student in the [Master Program in Data, Economics, and Development Policy](https://economics.mit.edu/masters/current) at the Massachusetts Institute of Technology.
+I have experience in public service and research. I started my career as a consultant for the Peruvian Government, in the Ministry of Education and the Ministry of Transports and Communication. After that experience, I spent two years as a R.A. in the research center of [Universidad del Pacífico](https://ciup.up.edu.pe/).
 
-Previously, I earned a B.Sc. in Economics from Universidad Nacional Mayor de San Marcos.
-I am interested in pursuing an academic career in the field of Development Economics.
+
+I am interested in pursuing an academic career. After finishing my studies at MIT, my next academic goal is to do a Ph.D. in Economics.
 
 You can contact me at [dazavbn@gmail.com](mailto:dazavbn@gmail.com)
 </div>
+
 </div>
