@@ -2,6 +2,6 @@
 title: "CV"
 ---
 
-If you can't see my cv below, you can find it [here](https://briandaza.github.io/cv%20-%20Brian%20Daza.pdf)
+If you can't see my cv below, you can find it [here](https://briandaza.github.io/Brian%20Daza%20CV.pdf)
 
-<iframe src="cv - Brian Daza.pdf" width="100%" height="500px">    </iframe>
+<iframe src="Brian Daza CV.pdf" width="100%" height="500px">    </iframe>
