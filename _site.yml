@@ -5,8 +5,6 @@ navbar:
   left:
     - text: "Research"
       href: research.html
-    - text: "Activities"
-      href: activities.html
     - text: "CV"
       href: cv.html
   right:
