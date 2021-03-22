@@ -34,13 +34,16 @@ title: "About me"
 
 <font size="5"> Brian Daza </font>
 
-<!-- 
-Master in DEDP Student
+<!-- <font size="3"> Ph.D. Student </font> -->
 
-[Massachusetts Institute of Technology](https://economics.mit.edu/masters)
- -->
+
+<!-- <font size="4"> University of Michigan </font> -->
+
+
+<!-- [Massachusetts Institute of Technology](https://economics.mit.edu/masters) -->
+
 <p style="text-align: center;">
-    <a href="mailto:dazavbn@gmail.com" class="fa fa-envelope"></a>
+    <a href="mailto:bdaza@umich.edu" class="fa fa-envelope"></a>
     <a href="https://twitter.com/bdazav" class="fa fa-twitter"></a>
     <a href="https://www.linkedin.com/in/dazavbn/" class="fa fa-linkedin"></a>
     <a href="https://github.com/briandaza/" class="fa fa-github"></a>
@@ -49,17 +52,19 @@ Master in DEDP Student
 </div>
   
 <div class = "col-md-9" align="justify">
-I've just graduated from the [Master's Program in Data, Economics, and Development Policy](https://economics.mit.edu/masters) at the Massachusetts Institute of Technology. Previously, I earned a Bachelor of Economics from Universidad Nacional Mayor de San Marcos.
 
+Hi! I'm Brian Daza.
 
-My previous work experience includes:
+Since Fall 2021 I'll be joining the University of Michigan as an Economics Ph.D. student. 
 
-- Research Assistant: MIT and Universidad del Pacífico.
-- Public Institutions in Peru: Ministry of Education and Ministry of Transports and Communications.
+The topics I fancy the most are related to development economics and trade. Additionally, I am interested in labor and political economy.
+<!--  Broadly speaking, I'm interested in how the structure of markets and access to them in developing countries impacts the productivity and earnings of people and firms that participates on them.  -->
 
-I am interested in pursuing an academic career. My fields of interest include development, trade, labor political economy and public policy.
+My research experience includes being a Research Assistant for MIT, the World Bank's DIME, and the Research Center of Universidad del Pacífico. I also worked as a consultant for the Peruvian Government in the Ministry of Education and the Ministry of Transports and Communication.
 
-You can contact me at [bdaza@alum.mit.edu](mailto:bdaza@alum.mit.edu)
+I hold a M.A.Sc in Data, Economics and Development Policy from MIT and a Bachelor of Economics from Universidad Nacional Mayor de San Marcos.
+
+You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 </div>
 
 </div>
