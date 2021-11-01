@@ -2,14 +2,18 @@
 title: "Resources"
 ---
 
-I keep a list of some open resources for students available in the web related to topics I'm interested in. I'm including it in this section to have an easier access to them and to allow other people to know about it. 
+I contributed to put together a way [more comprehensive list of resources](https://econthaki.github.io/recursos/2021/01/05/recursos.html) useful for Econ students in [EconThaki's website](https://econthaki.github.io/recursos/2021/01/05/recursos.html).
+
+In this page, I will keep a list of some open resources for students available in the web related to topics I'm interested in. I'm including it in this section to have an easier access to them and to allow other people to know about it. 
 
 Despite I am a strong supporter of MOOCs in platforms like [edX](https://www.edx.org/) and [Coursera](https://www.coursera.org/), I won't include their courses here because they are easier to find.
 
 * International and Regional Economics
+  + [AEA's webcast on International Trade, by Dave Donaldson and Marc Melitz](https://www.aeaweb.org/conference/cont-ed/2019-webcasts)
   + [Spatial Economics, by Stephen Redding](http://www.princeton.edu/~reddings/spatialeconomics.htm)
   + [Material for Trade PhD Students, by Stephen Redding](http://www.princeton.edu/~reddings/TradePhd.htm)
 * Macroeconomics
+  + [AEA's webcast on Inequality and Innovation, by Ufuk Akcigit and Stefanie Stantcheva](https://www.aeaweb.org/conference/cont-ed/2019-webcasts)
   + [Ben Moll's courses and lectures in distributional macroeconomics](https://benjaminmoll.com/lectures/)
 * Coding Tools for Economics and Statistics
   + [Quant Econ](https://quantecon.org/): Open code resources for economic modelling and data science using Python and Julia.

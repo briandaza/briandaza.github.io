@@ -27,44 +27,36 @@ title: "About me"
 
 <div class = "row">
 
-<div class = "col-md-3" align="center">
 
-<img src="images/BrianDazaCircle.png" style="width:100%; border:0px solid; margin-right: 20px" align="center">
-
-
-<font size="5"> Brian Daza </font>
-
-<!-- <font size="3"> Ph.D. Student </font> -->
-
-
-<!-- <font size="4"> University of Michigan </font> -->
-
-
-<!-- [Massachusetts Institute of Technology](https://economics.mit.edu/masters) -->
-
-<p style="text-align: center;">
-    <a href="mailto:bdaza@umich.edu" class="fa fa-envelope"></a>
-    <a href="https://twitter.com/bdazav" class="fa fa-twitter"></a>
-    <a href="https://www.linkedin.com/in/dazavbn/" class="fa fa-linkedin"></a>
-    <a href="https://github.com/briandaza/" class="fa fa-github"></a>
-</p>
-
-</div>
   
 <div class = "col-md-9" align="justify">
 
 Hi! I'm Brian Daza.
 
-Since Fall 2021 I'll be joining the University of Michigan as an Economics Ph.D. student. 
+Since Fall 2021 I'm a Economics Ph.D. student at the University of Michigan. 
 
-The topics I fancy the most are related to development economics and trade. Additionally, I am interested in labor and political economy.
-<!--  Broadly speaking, I'm interested in how the structure of markets and access to them in developing countries impacts the productivity and earnings of people and firms that participates on them.  -->
+The topics I fancy the most are in the intersection of development economics and trade, with some elements of the set of labor as well.
 
 My research experience includes being a Research Assistant for MIT, the World Bank's DIME, and the Research Center of Universidad del Pacífico. I also worked as a consultant for the Peruvian Government in the Ministry of Education and the Ministry of Transports and Communication.
 
 I hold a M.A.Sc in Data, Economics and Development Policy from MIT and a Bachelor of Economics from Universidad Nacional Mayor de San Marcos.
 
 You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
+</div>
+
+<div class = "col-md-3" align="center">
+
+<img src="images/BrianDazaCircle.png" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+
+
+<p style="text-align: center;">
+    <a href="mailto:bdaza@umich.edu" class="fa fa-envelope"></a>
+    <a href="https://twitter.com/bdazav" class="fa fa-twitter"></a>
+    <a href="https://www.linkedin.com/in/dazavbn/" class="fa fa-linkedin"></a>
+    <a href="https://github.com/briandaza/" class="fa fa-github"></a>
+    <a href="https://www.instagram.com/bdazav/" class="fa fa-instagram"></a>
+</p>
+
 </div>
 
 </div>

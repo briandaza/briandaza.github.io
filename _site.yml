@@ -7,6 +7,12 @@ navbar:
       href: research.html
     - text: "CV"
       href: cv.html
+    - text: "Resources"
+      href: resources.html
+    - text: "Arts"
+      href: Non-academics.html
+    - text: "EconThaki"
+      href: https://econthaki.github.io/
   right:
     - icon: fa-envelope fa-lg
       href: mailto:dazavbn@gmail.com
@@ -16,6 +22,8 @@ navbar:
       href: https://twitter.com/bdazav
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/dazavbn/
+    - icon: fa-instagram fa-lg
+      href: https://www.instagram.com/bdazav/
 output:
   html_document:
     theme: paper
