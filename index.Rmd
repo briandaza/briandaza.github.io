@@ -29,7 +29,7 @@ title: "About me"
 
 
   
-<div class = "col-md-9" align="justify">
+<div class = "col-md-8" align="justify">
 
 Hi! I'm Brian Daza.
 
@@ -44,9 +44,9 @@ I hold a M.A.Sc in Data, Economics and Development Policy from MIT and a Bachelo
 You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 </div>
 
-<div class = "col-md-3" align="center">
+<div class = "col-md-4" align="center">
 
-<img src="images/BrianDazaCircle.png" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/Brian-5.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
 
 
 <p style="text-align: center;">
