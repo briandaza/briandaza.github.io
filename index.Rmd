@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Brian Daza"
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -31,9 +31,9 @@ title: "About me"
   
 <div class = "col-md-8" align="justify">
 
-Hi! I'm Brian Daza.
+Hi! Welcome to my homepage.
 
-Since Fall 2021 I'm a Economics Ph.D. student at the University of Michigan. 
+I am Brian Daza. Since Fall 2021 I'm an Economics Ph.D. student at the University of Michigan. 
 
 The topics I fancy the most are in the intersection of development economics and trade, with some elements of the set of labor and macroeconomics as well.
 
