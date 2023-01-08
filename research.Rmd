@@ -4,26 +4,15 @@ title: "Research"
 
 <!--# {.tabset .tabset-fade} -->
 
-### Publications
+### Work in progress
+
+- "Teenage Labor, Trade, and Market Access"
+- "Trade and Investing Dynamics in the Presence of Financial Frictions"
+
+### Pre-Doctoral Research
 
 - "Effect of the increase of the educational supply on schooling and adolescent work in rural Peru". Revista de
 Investigación Educativa Peruana No 12. pp. 53-86. 2020 [(Original in Spanish)](https://revistas.siep.org.pe/index.php/RPIE/article/view/129)
-
-### Work in progress
-
-- "Local Impacts of Trade Liberalization Under Low Industrial Development: Evidence from Peru"
-- "Child labor, market access and agricultural productivity"
-- The impact of B corporations on the economic and social inclusion of women in Latin America, a pseudo-experimental approach
+- "The impact of B corporations on the economic and social inclusion of women in Latin America, a pseudo-experimental approach" 2020
 *(with J. Dávalos, M.A. Prialé, and E. F. Ninahuanca)*
 
-### Conferences and seminars
-
-I've been featured in some summary videos of academic events I had participated. If your navigation settings allow you to see Facebook content, you can see them embedded here.
-
-- 6$^{th}$ Congress of the Peruvian Economic Association (2019).
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fupacifico%2Fvideos%2F1098818823641762%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-- VI National Seminar on Education Research of the Peruvian Society of Educational Research (2018)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FdelaSIEP%2Fvideos%2F2069022166528690%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>

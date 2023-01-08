@@ -9,7 +9,7 @@ title: "Brian Daza"
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
+install.packages("rmdformats")
   gtag('config', 'UA-133529875-2');
 </script>
 
@@ -35,7 +35,7 @@ Hi! Welcome to my homepage.
 
 I am Brian Daza. Since Fall 2021 I'm an Economics Ph.D. student at the University of Michigan. 
 
-The topics I fancy the most are in the intersection of development economics and trade, with some elements of the set of labor and macroeconomics as well.
+The topics I fancy the most are in the intersection of trade and (mostly macro) development economics.
 
 My research experience includes being a Research Assistant for MIT, the World Bank's DIME, and the Research Center of Universidad del Pacífico. I also worked as a consultant for the Peruvian Government in the Ministry of Education and the Ministry of Transports and Communication.
 

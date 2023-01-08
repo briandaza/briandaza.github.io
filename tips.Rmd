@@ -1,0 +1,101 @@
+---
+title: "27 Bad Survival Tips for First Years Econ Ph.D. Student"
+author: "Brian Daza"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+There are many twitter threads, blog articles, guides, vlogs, etc. taylored to help incoming Ph.D. students to make the most of the first-year of the program. 
+
+There is really good advice out there. Try to spend some time gathering what they say, and put it in practice. You have the odds in your favor and I'm pretty confident you will made it.  
+
+I could not follow the advice I had on hand, though. That's what I'm writing this piece. 
+
+The following tips are not aimed to help you to be the most intellectually respected student of your cohort or to get the most strinking grades. These are just some reflections that hopefully you will find helpful to keep you happy during your first year, or at least to avoid some unnecesary pains (like most of the ones we suffer during the first-year to be honest). 
+
+One of the reasons I'm calling these tips 'bads' is that some of them seem to be useless, not serious enough, or irrelevant. However, I promise you that all the things I'm writing about here were discussed in actual chats I had during the first year. 
+
+
+
+1. "All ~~models~~ tips are wrong. But some of them are useful." -- I'm sure you read or heard this Box's quote many times until you get here. But I'm putting it here and first because apparently we forget it very frequently. All the advice you are going to get for grad school (and virtually everything) is based on each person's particular privileges and hardships. If you want to use them for yourself, be aware of that and don't be surprised or disappointed if you happen to realize they are useless or worse.Try to give them a shot. But don't disregard the experience of the people who gave you the advice, their knowledge might be relatable for other stuff. Even if that never happens, it's good to empathize with people different than you.
+
+2. Use the first weeks to learn how you are going to get around your new environment. Be as detailed as possible: make sure you know the options you have to feed yourself, try different work schedules, sleep strategies, and new ways to entertain yourself, take pictures of yourself, draw a portrait of yourself, take that 'Which Hogwarts house you belong?' test, figure out  where in the classrooms you will feel the most comfortable, take personality tests, reach out to a health professional, ask your friends stuff like "If I were an animal, which one I would be?", look at your birth chart and see if the description suits you, chat to people and ask them what are the stereotypes they would have on you based on your background, ask people you think is similar to you for advice, etc. Please, do everything you can to know yourself better. You need that to know better how to deal with your emotions, energy, and time. This will be more useful than remembering how to check if some particular thing approaches to another thing based on some convergence criteria.
+
+3. Avoid the following conversation: 
+
+-- "How are you?"
+-- "Fine. And you?"
+-- "Fine too."
+
+One of the cultural shocks that most frequently pops up on my friends' experiences is that, in the US and other countries, people don't care to the actual answer of the "how are you?" question. It's just a fancy "Hi!" and the conversation gets weird if you actually talk about how are you. So, many of them give up on actually answering and they are always like: "Fine."
+
+Please don't do that unless you are in a line with 50 people waiting to talk with this person, or something. Be honest and say how you feel, even if it's something like: "Wondering how my grandma's cat is doing back home. Probably she's just wandering around the roofs. Do you think she misses me?", "I am thinking of tying my hair blue. But I'm afraid it won't match my outfits. How about you?". If you don't want to talk to much: "I'm tired. How about you?" takes the same time as "Fine. And you?". If you don't want to talk about you, say something like: "I'm fine, but not as fine as your outfit! Where did you get those boots from?".
+
+You see my point, right? It's true most people don't care how are you doing. But it's good to identify those who do actually care or are interested.  
+
+4. Interact with your peers. This might be obvious for you. But you will see there's people that never interact with others. If you are one of those, on the contrary, you might be like: "I'm not doing so. I can handle this alone." I believe you. But even if you are fine and not feeling like you need or want to see other people, try to interact. I'm not asking you to become a party animal or to work always in groups. I do prefer to do my things in my own as well (like really, you won't imagine how much). But there are many ways in which talking with other people helps. You will appreciate to discover that your apparently unique approach to life is actually very similar to some philosophy that is exotic to you, or that unexpected people are part of the same weird fandoms as you.
+
+5. People have different expectations regarding how social interactions are supposed to work. That includes relationships, friendships, business, etc. Try to learn from that and how that is related to culture. Especially if you are a minority, you can face the risk of feeling you are an alien. The cultural shock can be so strong, that some of the people (including faculty) they told me they felt they were teenagers for a second time. But the 'strong' in the last sentence doesn't always mean 'difficult, it also means intense.
+
+6. Talk with faculty as if they were people, because they are. Don't try to be too strategic or to try to be flawless. 
+
+7. Nobody is flawless. Everyone struggles somehow and have any sort of self-confidence issue. 
+
+
+x. Take accountability of your hour works. 
+y. Active leisure.
+
+z. Ask "why is this important?"
+
+Selfies are not enough. Make self-portraits of yourself.
+Take a Bach song, and make it better.
+
+2. 
+
+
+6. Once them join the crew, you realize their flaws.
+
+2. Las notas no importan.
+3. "Literally" dont matter. Literally comes from direct word meaning. And all words are made up. ><
+4. Buscate amigos grad students que no sean de tu field.
+5. Busca amigos que no sean grad students.
+6. Hazte amigo de tus compas.
+7. Las amistades y relaciones sociales funcionan diferente en diferentes culturas.
+8. Ve a las office hours.
+9. Todos los dias son hermosos.
+10. No disfrutes del momento. Disfruta el proceso.. 
+11. La colera, la tristeza, la envidia, pueden significar cosas buenas. Busca qué mensajes te están dando, y atiendeles.
+On procrastination.
+La belleza de las personas esta hecha para apreciarse en movimiento.
+People are stalkers.
+Grstion del tiempo. Poner las cosas grandes primero, no siempre funciona.
+It's easy to underestimate and overestimate the time you spent doing tasks. Try to measure it.
+Know your comparative advantages.   ... and again, take other peoples advice with care. Even though I'm saying this to you, I'm taking macro as a field. (I definitely don't have comparative advantage on that).
+There's always some humble-bragging on people's advice. Sometimes people work less hard as they appear or have a harder time keeping things together. There are no bad intentions on this. Everyone of us wants some recognition or understanding....
+Remember that you are human. So you are emotional and biological. Your productivity can be incredibly different if you take care about your mood and your health.
+Maybe things would be different if you were a machine? Not really. >< ><
+Easy and hard are not useful constructs. Probably basic and advanced ate better.
+If someone asks you how are you doing, never reply "Fine". That's a very boring, ordinary, and useless answer.
+Ask faculty about what fields you should take in the second year.
+If you think some parts of the first year will be useless for your research, try to discuss that with faculty. Specially those you think have similar research interests with yours. You will be surprised by how much they agree or disagree. 
+Go to that Mitski Concert. https://issuu.com/themiscreant/docs/issue_54_final04
+
+Make a readme file on your previous projects?: That little project I was starting just a little bit ago, actually has been resting for two years now. ><
+
+
+Whether you are intelligent enough is a pretty boring and useless question. Lots of evidence shows that it is. 
+Feel free to cherry pick the evidence that shows your mind is awesome and critically disregard the evidence that tells you otherwise (what's their identification strategy anyway?).
+The production function thing.
+Intelligent childs praised by that, instead of hardwork. ~I watched a lot of TikToks talking about that.~ There's plenty Psychogical research on this topic.
+My favorite on this regard is Esther Duflo's article where she says she did a poor work in a metrics coursework and doubted if she would be even able to make a living as a researcher.
+
+
+
+Easy and hard are pretty useless constructs.
+
+Overestimate and underestimate your emotional response.
+
+
+

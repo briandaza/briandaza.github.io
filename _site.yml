@@ -26,7 +26,7 @@ navbar:
       href: https://www.instagram.com/bdazav/
 output:
   html_document:
-    theme: paper
+    theme: cosmo
     include:
       after_body: footer.html
     css: 'styles.css'

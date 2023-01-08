@@ -21,14 +21,10 @@ Despite I am a strong supporter of MOOCs in platforms like [edX](https://www.edx
   + [AEA's webcast on Inequality and Innovation, by Ufuk Akcigit and Stefanie Stantcheva](https://www.aeaweb.org/conference/cont-ed/2019-webcasts)
   + [Ben Moll's courses and lectures in distributional macroeconomics](https://benjaminmoll.com/lectures/)
   + [Lecture Videos, Code & Data from the Stanford Big-Data Initiative in International Macro-Finance](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/big-data-initiative-international-macro-finance/videos-codes?undefined)
+  + [STEG Virtual Course on Key Concepts in Macro Development](https://www.youtube.com/playlist?list=PLt9jC4Ylzr6BuFVwZNW0hCJureBVMBJ-Z)
 * Coding Tools for Economics and Statistics
   + [Quant Econ](https://quantecon.org/): Open code resources for economic modelling and data science using Python and Julia.
   + [Julia Academy](https://juliaacademy.com/)
   + [Data Visualization in R, by Andrew Heiss](https://datavizm20.classes.andrewheiss.com/schedule/) 
   + [Tutorial Stata to Python from Daniel Sullivan](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html)
-
-
-
-
-
 
