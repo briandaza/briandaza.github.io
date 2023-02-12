@@ -4,15 +4,14 @@ title: "Brian Daza"
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133529875-2"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-77P05TLLMD"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-install.packages("rmdformats")
-  gtag('config', 'UA-133529875-2');
-</script>
 
+  gtag('config', 'G-77P05TLLMD');
+</script>
 
 
 <!-- If you are using this code as a reference for your own website, please DO NOT COPY the previous part. That commands are aimed to allow Google Analytics to analize the visits to my webpage. You can generate yours free in Google Analytics  webpage.-->
