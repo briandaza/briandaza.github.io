@@ -1,5 +1,5 @@
 ---
-title: "27 Bad Survival Tips for First Years Econ Ph.D. Student"
+title: "27 Bad Survival Tips for New Econ Ph.D. Students"
 author: "Brian Daza"
 ---
 
@@ -7,19 +7,15 @@ author: "Brian Daza"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-There are many twitter threads, blog articles, guides, vlogs, etc. taylored to help incoming Ph.D. students to make the most of the first-year of the program. 
+I've seen a lot of fantastic advice on the internet and outside the internet directly tailored at new Ph.D. students, written by people I respect a lot and like whom I aspire to be when I grow up. If you found this thing, I am completely sure you found that stuff as well, and I'm also sure you received a lot of tips as well from senior students, he people who wrote your letters of recommendation, the faculty members of the institution you are joining, and other people who cares about you. If I am sharing these following tips is not because I think you will need them to be a better student, enjoy your life more, or become a better prospective. I don't even know you are you in particular. If I am writing this is because I am revisiting some notes I took when I was in the position of being a new Ph.D. student and felt lost and numb on my own special ways, or after talking with peers. 
 
-There is really good advice out there. Try to spend some time gathering what they say, and put it in practice. You have the odds in your favor and I'm pretty confident you will made it.  
+My notes were sometimes kind of sparse and vague, so I unfortunately I don't always remember what I meant what I wrote them. I think this is unfortunate. We usually give a lot of voice to the winners, to the survivors, to the successful, etcetera. I think I was doing good on saving these ideas, I wish I did it better and ellaborated more on them. But I guess I was busy dealing with some version of the Jorgenson's formula or figuring out if some set was compact or not.
 
-I could not follow the advice I had on hand, though. That's what I'm writing this piece. 
+There you have the motivation for this. I just want to prevent some collecive memories - OK, mainly personal ones - to get lost.
 
-The following tips are not aimed to help you to be the most intellectually respected student of your cohort or to get the most strinking grades. These are just some reflections that hopefully you will find helpful to keep you happy during your first year, or at least to avoid some unnecesary pains (like most of the ones we suffer during the first-year to be honest). 
+1. All advice is wrong. But some is useful. All the scientific knowledge is based on assumptions that we know aren't true but hopefully gives some tractable guidance about the real world which of course we approach through the positivist assumption that it is real. If a model doesn't fit the data, or doesn't help you, you wouldn't say the world is the one at fault. It would be very dumb if you persevere on wrong ideas just because they sound coherent on their own. You are very different than the extremists screaming freedom while showing how much a prisoner of hatred and ignorance they are. Don't persevere following advice you realize it is not good for you or it is not working for you. There is nothing wrong with you if the productivity hacks that seem to work for other people are useless for you. Just for example, if the idea of "doing the same little effort everyday with consistence" terrifies you instead of helping you, embrace your style and look for what works better for you. Balance your discipline and your motivation. For me, doing something twenty times with whole intent is more effective than doing it 365 and feeling it like a burden. At the end, $1.20^{20} \approx 1.01^{135}$. Choose the fighter that suits you the best.
 
-One of the reasons I'm calling these tips 'bads' is that some of them seem to be useless, not serious enough, or irrelevant. However, I promise you that all the things I'm writing about here were discussed in actual chats I had during the first year. 
-
-
-
-1. "All ~~models~~ tips are wrong. But some of them are useful." -- I'm sure you read or heard this Box's quote many times until you get here. But I'm putting it here and first because apparently we forget it very frequently. All the advice you are going to get for grad school (and virtually everything) is based on each person's particular privileges and hardships. If you want to use them for yourself, be aware of that and don't be surprised or disappointed if you happen to realize they are useless or worse.Try to give them a shot. But don't disregard the experience of the people who gave you the advice, their knowledge might be relatable for other stuff. Even if that never happens, it's good to empathize with people different than you.
+2. You are in a great moment to make mistakes, though. So take advantage of it.
 
 2. Use the first weeks to learn how you are going to get around your new environment. Be as detailed as possible: make sure you know the options you have to feed yourself, try different work schedules, sleep strategies, and new ways to entertain yourself, take pictures of yourself, draw a portrait of yourself, take that 'Which Hogwarts house you belong?' test, figure out  where in the classrooms you will feel the most comfortable, take personality tests, reach out to a health professional, ask your friends stuff like "If I were an animal, which one I would be?", look at your birth chart and see if the description suits you, chat to people and ask them what are the stereotypes they would have on you based on your background, ask people you think is similar to you for advice, etc. Please, do everything you can to know yourself better. You need that to know better how to deal with your emotions, energy, and time. This will be more useful than remembering how to check if some particular thing approaches to another thing based on some convergence criteria.
 
@@ -57,6 +53,9 @@ Take a Bach song, and make it better.
 
 6. Once them join the crew, you realize their flaws.
 
+Remember there is a lot of passion behind each stuff you have in front of you/.
+
+
 2. Las notas no importan.
 3. "Literally" dont matter. Literally comes from direct word meaning. And all words are made up. ><
 4. Buscate amigos grad students que no sean de tu field.
@@ -83,6 +82,9 @@ If you think some parts of the first year will be useless for your research, try
 Go to that Mitski Concert. https://issuu.com/themiscreant/docs/issue_54_final04
 
 Make a readme file on your previous projects?: That little project I was starting just a little bit ago, actually has been resting for two years now. ><
+
+
+
 
 
 Whether you are intelligent enough is a pretty boring and useless question. Lots of evidence shows that it is. 
