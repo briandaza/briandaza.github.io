@@ -30,3 +30,6 @@ img-circle {
     border-radius: 50%;
 }
 
+link-color {
+  color: inherit;
+}
