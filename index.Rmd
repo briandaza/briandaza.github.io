@@ -1,4 +1,4 @@
-# About
+<title>Brian Daza - Homepage</title>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
@@ -22,7 +22,7 @@
 
 ---
 
-
+# About
 
 <div class = "row">
 
