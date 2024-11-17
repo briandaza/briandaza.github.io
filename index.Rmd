@@ -54,7 +54,7 @@ You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 
 </div>
 
-<div class = "row" align="justify">
+</div>
 
 ## Research
 
@@ -83,6 +83,3 @@ You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 *with [Jorge Dávalos](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000168211), [Maria Angela Prialé](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000018602), and [Frances Ninahuanca](https://www.linkedin.com/in/francesninahuanca/)* 
 - "Effect of the increase of the educational supply on schooling and adolescent work in rural Peru". [Revista de
 Investigación Educativa Peruana](https://revistas.siep.org.pe/index.php/RPIE/article/view/129) No 12. pp. 53-86. 2020 [(Link to Original in Spanish)](https://revistas.siep.org.pe/index.php/RPIE/article/view/129)
-
-
-</div>
