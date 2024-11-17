@@ -1,4 +1,17 @@
-<title>Brian Daza - Homepage</title>
+<style>
+  .title{
+    display: none;
+  }
+</style>
+
+```{r include=FALSE}
+title_var <- "Brian Daza - Research Website"
+```    
+---
+title: `r title_var`
+---
+
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
@@ -60,7 +73,7 @@ You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 
 ### Working Papers
 
-- "Government Spending Multipliers and Distribution of Commodity Booms in the Spatial Economy" 
+- "Government Spending Multipliers and Distribution of Commodity Booms in the Spatial Economy"  
 [Latest Version](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf) (November, 2024)
 <details>
   <summary><span> `Abstract` </span>  </summary> 
@@ -69,7 +82,7 @@ You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 
 ### Selected Work in Progress
 
-- "Teenage Labor, Trade, and Market Access" 
+- "Teenage Labor, Trade, and Market Access"  
 [Working Paper Coming Soon - Draft Available by Request](mailto:bdaza@umich.edu)
 <details>
   <summary><span class="link-color"> `Abstract` </span>  </summary> 
