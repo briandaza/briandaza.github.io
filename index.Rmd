@@ -73,8 +73,9 @@ You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 
 ### Working Papers
 
-- "Government Spending Multipliers and Distribution of Commodity Booms in the Spatial Economy"  
-[Latest Version](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf) (November, 2024)
+- "Government Spending Multipliers and Distribution of Commodity Booms in the Spatial Economy"<br />
+[Latest Version (November, 2024)](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf) |
+[RSIE Discussion Paper 690](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r690.pdf)
 <details>
   <summary><span> `Abstract` </span>  </summary> 
   This paper uses the regional redistribution of Peru's government revenue—increased due to the mineral commodity price boom in the 2000s—to estimate the effects of government spending. I begin by calculating local effects on households, workers, and firms, and a local open economy relative multiplier. Motivated by a general equilibrium framework, I then incorporate a Spatial Auto-Regressive (SAR) model to measure trade-related spatial spillovers. I find that increases in government spending stimulate larger relative output growth and positively impact relative wages, expenditures, and income. However, there is no corresponding relative rise in labor or value added. The spatial analysis helps interpret these results and measures the trade-related indirect effects of local spending on output.
@@ -82,7 +83,7 @@ You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 
 ### Selected Work in Progress
 
-- "Teenage Labor, Trade, and Market Access"  
+- "Teenage Labor, Trade, and Market Access" <br />
 [Working Paper Coming Soon - Draft Available by Request](mailto:bdaza@umich.edu)
 <details>
   <summary><span class="link-color"> `Abstract` </span>  </summary> 
@@ -92,7 +93,8 @@ You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 
 ### Pre-Doctoral Work
 
-- "The effect of women’s entrepreneurship on corporate social responsibility"  [Management Research](https://www.emerald.com/insight/content/doi/10.1108/MRJIAM-04-2023-1408/full/html) (2023)
-*with [Jorge Dávalos](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000168211), [Maria Angela Prialé](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000018602), and [Frances Ninahuanca](https://www.linkedin.com/in/francesninahuanca/)* 
-- "Effect of the increase of the educational supply on schooling and adolescent work in rural Peru". [Revista de
+- "The effect of women’s entrepreneurship on corporate social responsibility" joint with [Jorge Dávalos](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000168211), [Maria Angela Prialé](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000018602), and [Frances Ninahuanca](https://www.linkedin.com/in/francesninahuanca/) <br />
+[Management Research](https://www.emerald.com/insight/content/doi/10.1108/MRJIAM-04-2023-1408/full/html) (2023)
+- "Effect of the increase of the educational supply on schooling and adolescent work in rural Peru". <br /> [Revista de
 Investigación Educativa Peruana](https://revistas.siep.org.pe/index.php/RPIE/article/view/129) No 12. pp. 53-86. 2020 [(Link to Original in Spanish)](https://revistas.siep.org.pe/index.php/RPIE/article/view/129)
+
