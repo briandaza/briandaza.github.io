@@ -74,11 +74,11 @@ You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 ### Working Papers
 
 - "Government Spending Multipliers and Distribution of Commodity Booms in the Spatial Economy"<br />
-[Latest Version (November, 2024)](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf) |
+[Latest Version (February, 2025)](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf) |
 [RSIE Discussion Paper 690](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r690.pdf)
 <details>
   <summary><span> `Abstract` </span>  </summary> 
-  This paper uses the regional redistribution of Peru's government revenue—increased due to the mineral commodity price boom in the 2000s—to estimate the effects of government spending. I begin by calculating local effects on households, workers, and firms, and a local open economy relative multiplier. Motivated by a general equilibrium framework, I then incorporate a Spatial Auto-Regressive (SAR) model to measure trade-related spatial spillovers. I find that increases in government spending stimulate larger relative output growth and positively impact relative wages, expenditures, and income. However, there is no corresponding relative rise in labor or value added. The spatial analysis helps interpret these results and measures the trade-related indirect effects of local spending on output.
+  This paper examines the effects of government spending using regional data from Peru. Identification relies on increased sub-national funds from a mineral prices boom and predetermined redistribution rules, which I use to calculate a local open economy relative multiplier and assess impacts on households, workers, and firms. Findings show spending raises relative output, wages, expenditures, and income but not labor or value added. To address this discrepancy, I incorporate insights from trade theory. Spatial Auto-Regressive analysis supports these insights and provides evidence that trade-related indirect effects on output are as important as local direct effects of government spending.
 </details>
 
 ### Selected Work in Progress

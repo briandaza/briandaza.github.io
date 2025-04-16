@@ -28,5 +28,6 @@ output:
   html_document:
     theme: journal
     include:
+      in_header: header.html
       after_body: footer.html
     css: 'styles.css'
