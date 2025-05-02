@@ -32,6 +32,11 @@ title: `r title_var`
 <!-- Add icon library
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
  -->
+ 
+ <!-- 
+ If you want a browser icon on your page. Insert it in the "header.html", and reference it from the yml site. '
+ My icon is an emoji that comes from the open source project TWemoji, and downloaded from https://favicon.io/ 
+ -->
 
 ---
 
