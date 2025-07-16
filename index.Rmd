@@ -48,13 +48,12 @@ title: `r title_var`
   
 <div class = "col-md-8" align="justify">
 
-Hi! I am Brian Daza. I am a fourth year Ph.D. student in the Department of Economics at University of Michigan. The topics I fancy the most are a subset of the union of trade, macro, and development economics.
+Hi! I’m Brian Daza, a Ph.D. candidate in Economics at the University of Michigan. I focus on questions that sit within the union of international trade, macroeconomics, and development economics. I use both structural and empirical tools to study how globalization, domestic frictions, and government policy interact with economic growth and distribution.
 
 My research experience includes being a Research Assistant at MIT, the World Bank's DIME, and the Research Center of Universidad del Pacífico. I also worked as a consultant for the Peruvian Government in the Ministry of Education and the Ministry of Transports and Communication.
 
 I hold a M.A.Sc in Data, Economics and Development Policy from MIT and a Bachelor of Economics from Universidad Nacional Mayor de San Marcos.
 
-You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 </div>
 
 <div class = "col-md-4" align="center">
@@ -67,7 +66,7 @@ You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
     <a href="https://twitter.com/bdazav" class="fa fa-twitter"></a>
     <a href="https://www.linkedin.com/in/dazavbn/" class="fa fa-linkedin"></a>
     <a href="https://github.com/briandaza/" class="fa fa-github"></a>
-    <a href="https://www.instagram.com/bdazav/" class="fa fa-instagram"></a>
+    <a href="https://www.instagram.com/brownies.are.brain/" class="fa fa-instagram"></a>
 </p>
 
 </div>
@@ -83,7 +82,7 @@ You can contact me at [bdaza@umich.edu](mailto:bdaza@umich.edu)
 [RSIE Discussion Paper 690](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r690.pdf)
 <details>
   <summary><span> `Abstract` </span>  </summary> 
-  This paper examines the effects of government spending using regional data from Peru. Identification relies on increased sub-national funds from a mineral prices boom and predetermined redistribution rules, which I use to calculate a local open economy relative multiplier and assess impacts on households, workers, and firms. Findings show spending raises relative output, wages, expenditures, and income but not labor or value added. To address this discrepancy, I incorporate insights from trade theory. Spatial Auto-Regressive analysis supports these insights and provides evidence that trade-related indirect effects on output are as important as local direct effects of government spending.
+  This paper studies the effects of local government spending and examines an empirical puzzle: while income, wages, and household expenditure rise following spending increases,local employment and firm value added do not. I exploit plausibly exogenous variation in public investment spending in Peru, where a commodity boom in the 2000s and ex ante defined natural resource revenue-sharing rules generated resources windfalls to local governments even to non-extractive provinces. Using these transfers as an instrument for public investment purchases, I estimate an open-economy relative local multiplier of 0.376. To explain the disconnect between rises in wages, expenditures, and income gains, and no response in local production, I propose a spatial transmission mechanism: government spending raises local demand, which is met through trade with other regions rather than only local production. I formalize this mechanism in a spatial trade model, where local fiscal shocks propagate through goods market linkages. The model’s equilibrium conditions map to a Spatial Auto-Regressive (SAR) specification, which I estimate to quantify indirect effects. The SAR results confirm that trade spillovers substantially amplify the aggregate effects of local spending. These findings imply that local multiplier estimates, which do not incorporate spatial propagation, likely understate the broader economic impact of fiscal policy.
 </details>
 
 ### Selected Work in Progress

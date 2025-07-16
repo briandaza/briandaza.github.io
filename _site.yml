@@ -9,8 +9,6 @@ navbar:
       href: cv.html
     - text: "Resources"
       href: resources.html
-    - text: "Arts"
-      href: Non-academics.html
     - text: "EconThaki"
       href: https://econthaki.github.io/
   right:
