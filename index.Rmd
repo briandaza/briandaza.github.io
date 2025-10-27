@@ -87,6 +87,12 @@ I hold a M.A.Sc in Data, Economics and Development Policy from MIT and a Bachelo
 
 ### Selected Work in Progress
 
+- "Wealth Dynamics, Financial Frictions, and How Distribution Shapes Specialization and Trade" <br />
+<details>
+  <summary><span class="link-color"> `Abstract` </span>  </summary> 
+  This project studies how the distribution of wealth across entrepreneurs, in an economy with financial frictions, shapes specialization and trade through capital accumulation. I develop a multisector general equilibrium model in which heterogeneous entrepreneurs face collateral constraints and persistent productivity shocks. Entrepreneurs accumulate wealth endogenously through savings out of profits and revenues, influencing capital allocation, prices, and production decisions across sectors. These dynamics generate evolving sectoral differences in wealth, productivity, and specialization, offering a new channel through which inequality affects comparative advantage.
+</details>
+
 - "Teenage Labor, Trade, and Market Access" <br />
 [Working Paper Coming Soon - Draft Available by Request](mailto:bdaza@umich.edu)
 <details>
