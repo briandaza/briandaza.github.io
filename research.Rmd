@@ -19,20 +19,27 @@ title: "Research"
 ### Working Papers
 
 - "Government Spending Multipliers and Distribution of Commodity Booms in the Spatial Economy"<br />
-[Latest Version (November, 2024)](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf) |
+[Latest Version (February, 2025)](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf) |
 [RSIE Discussion Paper 690](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r690.pdf)
 <details>
   <summary><span> `Abstract` </span>  </summary> 
-  This paper uses the regional redistribution of Peru's government revenue—increased due to the mineral commodity price boom in the 2000s—to estimate the effects of government spending. I begin by calculating local effects on households, workers, and firms, and a local open economy relative multiplier. Motivated by a general equilibrium framework, I then incorporate a Spatial Auto-Regressive (SAR) model to measure trade-related spatial spillovers. I find that increases in government spending stimulate larger relative output growth and positively impact relative wages, expenditures, and income. However, there is no corresponding relative rise in labor or value added. The spatial analysis helps interpret these results and measures the trade-related indirect effects of local spending on output.
+  This paper studies the effects of local government spending and examines an empirical puzzle: while income, wages, and household expenditure rise following spending increases,local employment and firm value added do not. I exploit plausibly exogenous variation in public investment spending in Peru, where a commodity boom in the 2000s and ex ante defined natural resource revenue-sharing rules generated resources windfalls to local governments even to non-extractive provinces. Using these transfers as an instrument for public investment purchases, I estimate an open-economy relative local multiplier of 0.376. To explain the disconnect between rises in wages, expenditures, and income gains, and no response in local production, I propose a spatial transmission mechanism: government spending raises local demand, which is met through trade with other regions rather than only local production. I formalize this mechanism in a spatial trade model, where local fiscal shocks propagate through goods market linkages. The model’s equilibrium conditions map to a Spatial Auto-Regressive (SAR) specification, which I estimate to quantify indirect effects. The SAR results confirm that trade spillovers substantially amplify the aggregate effects of local spending. These findings imply that local multiplier estimates, which do not incorporate spatial propagation, likely understate the broader economic impact of fiscal policy.
 </details>
 
 ### Selected Work in Progress
 
-- "Teenage Labor, Trade, and Market Access" <br />
+- "Wealth Dynamics and the Persistence of Specialization" <br />
 [Working Paper Coming Soon - Draft Available by Request](mailto:bdaza@umich.edu)
 <details>
   <summary><span class="link-color"> `Abstract` </span>  </summary> 
-  This paper exploits drastic tariff reductions and increased export possibilities to study their effects on teenage labor, its interaction with adult labor, and the role that market access plays in that interaction. In the context of Peru’s last liberalization episode that took place in the 2000s and the growth of China as the main Peruvian trade partner, I find that both episodes are associated with higher teenage labor participation in districts more exposed to them. These effects seem to be sharper in districts with lower market access, which is consistent with complementarities between adult labor and teenage labor in household production activities and contributes to explaining why child and teenage labor didn't decrease despite the severe reductions in poverty rates.
+  This paper shows how financial frictions can make sectoral specialization persistent, even when sectors have identical fundamentals. I develop a dynamic multisector general equilibrium model with heterogeneous entrepreneurs who face collateral constraints and persistent productivity shocks. Because borrowing capacity depends on wealth, the allocation of wealth across productive and unproductive entrepreneurs determines effective sectoral productivity and future accumulation. The key result is that the persistence of these distortions depends on the price regime. In a closed economy, relative prices respond to sectoral scarcity: initially disadvantaged sectors become more profitable, which accelerates wealth accumulation among constrained productive firms and promotes convergence. In a small open economy, relative prices are fixed at world levels, so this corrective force is absent. Initial differences in the wealth-productivity distribution therefore generate persistent differences in sectoral size and specialization, even with identical technologies and preferences. Trade integration does not eliminate misallocation; it changes how misallocation propagates through wealth accumulation. Firm- and sector-level evidence from Peru is consistent with two implications of the mechanism: persistent productivity dispersion within sectors and gradual sectoral responses to external demand shocks.
+</details>
+
+- "Teenage Labor, Trade, and Market Access" <br />
+[Draft Available by Request](mailto:bdaza@umich.edu)
+<details>
+  <summary><span class="link-color"> `Abstract` </span>  </summary> 
+  This paper studies why child and teenage labor can remain persistent during periods of rapid aggregate growth. I focus on Peru, where GDP per capita rose sharply and poverty fell substantially during the 2000s, but child and teenage labor rates remained high, especially in rural areas. The paper combines household survey data with district-level exposure to trade shocks to study how macroeconomic shocks affect teenage labor supply and schooling decisions. Preliminary results suggest that teenage labor responds to trade shocks, but with heterogeneous effects across space. Adult outcomes also respond through wages, income, self-employment, and agricultural work, indicating that household occupational structure shapes how shocks are transmitted to teenagers. Motivated by the fact that many teenagers work in the same occupation or industry as their parents, the paper develops two complementary directions. The empirical component separates goods-market access from labor-market access to distinguish exposure to shocks from the ability to adjust through wage employment. The model-based component studies a household problem in which schooling, teenage labor, and occupational choice respond to wage growth, household production opportunities, and idiosyncratic risk. The paper aims to clarify how incomplete markets and limited labor-market access can weaken the link between aggregate growth and reductions in child and teenage labor.
 </details>
 
 
@@ -42,5 +49,4 @@ title: "Research"
 [Management Research](https://www.emerald.com/insight/content/doi/10.1108/MRJIAM-04-2023-1408/full/html) (2023)
 - "Effect of the increase of the educational supply on schooling and adolescent work in rural Peru". <br /> [Revista de
 Investigación Educativa Peruana](https://revistas.siep.org.pe/index.php/RPIE/article/view/129) No 12. pp. 53-86. 2020 [(Link to Original in Spanish)](https://revistas.siep.org.pe/index.php/RPIE/article/view/129)
-
 
