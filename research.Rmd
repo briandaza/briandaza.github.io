@@ -18,6 +18,13 @@ title: "Research"
 
 ### Working Papers
 
+- "Wealth Dynamics and the Persistence of Specialization" <br />
+[Preliminary and Frequently Updated Draft](https://briandaza.github.io/papers/BD-TWD-WP.pdf)
+<details>
+  <summary><span class="link-color"> `Abstract` </span>  </summary> 
+  This paper shows how financial frictions can make sectoral specialization persistent, even when sectors have identical fundamentals. I develop a dynamic multisector general equilibrium model with heterogeneous entrepreneurs who face collateral constraints and persistent productivity shocks. Because borrowing capacity depends on wealth, the allocation of wealth across productive and unproductive entrepreneurs determines effective sectoral productivity and future accumulation. The key result is that the persistence of these distortions depends on the price regime. In a closed economy, relative prices respond to sectoral scarcity: initially disadvantaged sectors become more profitable, which accelerates wealth accumulation among constrained productive firms and promotes convergence. In a small open economy, relative prices are fixed at world levels, so this corrective force is absent. Initial differences in the wealth-productivity distribution therefore generate persistent differences in sectoral size and specialization, even with identical technologies and preferences. Trade integration does not eliminate misallocation; it changes how misallocation propagates through wealth accumulation. Firm- and sector-level evidence from Peru is consistent with two implications of the mechanism: persistent productivity dispersion within sectors and gradual sectoral responses to external demand shocks.
+</details>
+
 - "Government Spending Multipliers and Distribution of Commodity Booms in the Spatial Economy"<br />
 [Latest Version (February, 2025)](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf) |
 [RSIE Discussion Paper 690](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r690.pdf)
@@ -27,13 +34,6 @@ title: "Research"
 </details>
 
 ### Selected Work in Progress
-
-- "Wealth Dynamics and the Persistence of Specialization" <br />
-[Working Paper Coming Soon - Draft Available by Request](mailto:bdaza@umich.edu)
-<details>
-  <summary><span class="link-color"> `Abstract` </span>  </summary> 
-  This paper shows how financial frictions can make sectoral specialization persistent, even when sectors have identical fundamentals. I develop a dynamic multisector general equilibrium model with heterogeneous entrepreneurs who face collateral constraints and persistent productivity shocks. Because borrowing capacity depends on wealth, the allocation of wealth across productive and unproductive entrepreneurs determines effective sectoral productivity and future accumulation. The key result is that the persistence of these distortions depends on the price regime. In a closed economy, relative prices respond to sectoral scarcity: initially disadvantaged sectors become more profitable, which accelerates wealth accumulation among constrained productive firms and promotes convergence. In a small open economy, relative prices are fixed at world levels, so this corrective force is absent. Initial differences in the wealth-productivity distribution therefore generate persistent differences in sectoral size and specialization, even with identical technologies and preferences. Trade integration does not eliminate misallocation; it changes how misallocation propagates through wealth accumulation. Firm- and sector-level evidence from Peru is consistent with two implications of the mechanism: persistent productivity dispersion within sectors and gradual sectoral responses to external demand shocks.
-</details>
 
 - "Teenage Labor, Trade, and Market Access" <br />
 [Draft Available by Request](mailto:bdaza@umich.edu)
