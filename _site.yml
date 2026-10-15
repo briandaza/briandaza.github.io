@@ -4,7 +4,7 @@ navbar:
   title: "Brian Daza"
   left:
     - text: "Research"
-      href: research.html
+      href: index.html#research
     - text: "CV"
       href: cv.html
     - text: "Resources"

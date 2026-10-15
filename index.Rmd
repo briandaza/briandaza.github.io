@@ -25,64 +25,60 @@ title: `r title_var`
 </script>
 
 
-<!-- If you are using this code as a reference for your own website, please DO NOT COPY the previous part. That commands are aimed to allow Google Analytics to analize the visits to my webpage. You can generate yours free in Google Analytics  webpage.-->
-
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<!-- Add icon library
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
- -->
- 
  <!-- 
  If you want a browser icon on your page. Insert it in the "header.html", and reference it from the yml site. '
  My icon is an emoji that comes from the open source project TWemoji, and downloaded from https://favicon.io/ 
  -->
 
----
-
-# About
 
 <div class = "row">
 
 
   
-<div class = "col-md-8" align="justify">
 
-Hi! I’m Brian Daza, a Ph.D. candidate in Economics at the University of Michigan. I focus on questions that sit within the union of international trade, macroeconomics, and development economics. I use both structural and empirical tools to study how globalization, domestic frictions, and government policy interact with economic growth and distribution.
 
-My research experience includes being a Research Assistant at MIT, the World Bank's DIME, and the Research Center of Universidad del Pacífico. I also worked as a consultant for the Peruvian Government in the Ministry of Education and the Ministry of Transports and Communication.
-
-I hold a M.A.Sc in Data, Economics and Development Policy from MIT and a Bachelor of Economics from Universidad Nacional Mayor de San Marcos.
-
-</div>
-
-<div class = "col-md-4" align="center">
+<div class = "col-md-3" align="center">
 
 <img src="images/Brian-5.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
 
+</div>
 
-<p style="text-align: center;">
-    <a href="mailto:bdaza@umich.edu" class="fa fa-envelope"></a>
-    <a href="https://twitter.com/bdazav" class="fa fa-twitter"></a>
-    <a href="https://www.linkedin.com/in/dazavbn/" class="fa fa-linkedin"></a>
-    <a href="https://github.com/briandaza/" class="fa fa-github"></a>
-    <a href="https://www.instagram.com/brownies.are.brain/" class="fa fa-instagram"></a>
-</p>
+<div class = "col-md-9" align="left">
+
+## Brian Daza
+
+Ph.D. Candidate in Economics <br />
+University of Michigan <br />
+**2026–27 Job Market Candidate**
+
+<div style="height: 10pt;"></div>
+
+I focus on questions that sit within the union of macroeconomics, international trade, and development. I use both structural and empirical tools to study how globalization, domestic frictions, and government policy interact with economic growth and distribution.
+
+
+<div style="height: 10pt;"></div>
+
+[Job Market Paper](https://briandaza.github.io/papers/BD-TWD-WP.pdf)  · 
+[CV](https://briandaza.github.io/Brian%20Daza%20CV.pdf)
 
 </div>
 
 </div>
 
-## Research
+---
 
-### Working Papers
+## Job Market Paper {#research}
 
-- **"Wealth Dynamics and the Persistence of Specialization"** <br />
-[Preliminary and Frequently Updated Draft](https://briandaza.github.io/papers/BD-TWD-WP.pdf)
-<details>
-  <summary><span class="link-color"> `Abstract` </span>  </summary> 
-  This paper shows how wealth dynamics under financial frictions can make sectoral specialization history-dependent, even when sectors have identical fundamentals. I develop a dynamic multisector general equilibrium model with heterogeneous entrepreneurs facing collateral constraints and persistent productivity shocks. Because borrowing capacity depends on wealth, its allocation across productivity types determines sectoral productivity and accumulation. Persistence depends on trade openness. In a closed economy, relative prices respond to scarcity: initially disadvantaged sectors become more profitable, which accelerates wealth accumulation among constrained productive firms and allows convergence. In a small open economy, sectoral prices are pinned down by exogenous world prices, so this corrective force is absent. Initial differences in wealth allocation therefore generate persistent differences in sectoral specialization. Trade integration changes selection into production and how allocation differences propagate through wealth accumulation. A preliminary quantitative application using firm-level, input-output, and trade data from Peru shows that wealth-productivity misalignment generates persistent effects in specialization and welfare.
-</details>
+**"Wealth Dynamics and Path Dependence"** <br />
+[Download](https://briandaza.github.io/papers/BD-TWD-WP.pdf)
+
+**Abstract:**  This paper shows that trade integration and financial constraints can make specialization history-dependent even when sectors have the same long-run productivity potential. 	When their long-run potentials differ, the same constraints slow the adjustment of production towards comparative advantage. I study these mechanisms in a dynamic multisector general equilibrium model with heterogeneous entrepreneurs facing persistent productivity shocks. Financial frictions make firms' ability to expand depend on their wealth, which connects sectoral production and growth to wealth distribution. In a closed economy, relative prices respond to scarcity: initially disadvantaged sectors become more profitable and catch up with initially favored sectors.	In an open economy, international markets limit this price response; initially favored sectors accumulate more wealth and account for larger long-run shares of production. I conduct a quantitative analysis using data on Peruvian firms, households, national accounts, tariffs, and international trade. The quantitative results confirm that in an environment with empirically informed features, financial frictions slow sectoral reallocation towards comparative advantage, and greater trade exposure reinforces the degree to which initial accumulation advantages translate into subsequent specialization.
+
+---
+
+## Other Current Research
 
 - **"Government Spending Multipliers and Distribution of Commodity Booms in the Spatial Economy"** <br />
 [Latest Version (February, 2025)](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf) |
@@ -91,8 +87,6 @@ I hold a M.A.Sc in Data, Economics and Development Policy from MIT and a Bachelo
   <summary><span> `Abstract` </span>  </summary> 
   This paper studies the effects of local government spending and examines an empirical puzzle: while income, wages, and household expenditure rise following spending increases,local employment and firm value added do not. I exploit plausibly exogenous variation in public investment spending in Peru, where a commodity boom in the 2000s and ex ante defined natural resource revenue-sharing rules generated resources windfalls to local governments even to non-extractive provinces. Using these transfers as an instrument for public investment purchases, I estimate an open-economy relative local multiplier of 0.376. To explain the disconnect between rises in wages, expenditures, and income gains, and no response in local production, I propose a spatial transmission mechanism: government spending raises local demand, which is met through trade with other regions rather than only local production. I formalize this mechanism in a spatial trade model, where local fiscal shocks propagate through goods market linkages. The model’s equilibrium conditions map to a Spatial Auto-Regressive (SAR) specification, which I estimate to quantify indirect effects. The SAR results confirm that trade spillovers substantially amplify the aggregate effects of local spending. These findings imply that local multiplier estimates, which do not incorporate spatial propagation, likely understate the broader economic impact of fiscal policy.
 </details>
-
-### Selected Work in Progress
 
 - **"Teenage Labor, Trade, and Market Access"** <br />
 [Preliminary Results Available by Request](mailto:bdaza@umich.edu)
@@ -106,10 +100,9 @@ I hold a M.A.Sc in Data, Economics and Development Policy from MIT and a Bachelo
 </details>
 
 
-### Pre-Doctoral Work
+## Pre-Doctoral Research
 
 - "The effect of women’s entrepreneurship on corporate social responsibility" joint with [Jorge Dávalos](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000168211), [Maria Angela Prialé](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000018602), and [Frances Ninahuanca](https://www.linkedin.com/in/francesninahuanca/) <br />
 [Management Research](https://www.emerald.com/insight/content/doi/10.1108/MRJIAM-04-2023-1408/full/html) (2023)
 - "Effect of the increase of the educational supply on schooling and adolescent work in rural Peru". <br /> [Revista de
 Investigación Educativa Peruana](https://revistas.siep.org.pe/index.php/RPIE/article/view/129) No 12. pp. 53-86. 2020 [(Link to Original in Spanish)](https://revistas.siep.org.pe/index.php/RPIE/article/view/129)
-

@@ -33,3 +33,7 @@ img-circle {
 link-color {
   color: inherit;
 }
+
+html {
+  scroll-behavior: smooth;
+}
