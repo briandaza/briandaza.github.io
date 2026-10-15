@@ -55,7 +55,7 @@ University of Michigan <br />
 
 <div style="height: 10pt;"></div>
 
-I focus on questions that sit within the union of macroeconomics, international trade, and development. I use both structural and empirical tools to study how globalization, domestic frictions, and government policy interact with economic growth and distribution.
+I focus on questions that sit within the union of macroeconomics and international trade. I use both structural and empirical tools to study how globalization, domestic frictions, and government policy interact with economic growth and distribution.
 
 
 <div style="height: 10pt;"></div>
@@ -81,7 +81,7 @@ I focus on questions that sit within the union of macroeconomics, international 
 ## Other Current Research
 
 - **"Government Spending Multipliers and Distribution of Commodity Booms in the Spatial Economy"** <br />
-[Latest Version (February, 2025)](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf) |
+[Latest Version (February, 2025)](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf)  · 
 [RSIE Discussion Paper 690](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r690.pdf)
 <details>
   <summary><span> `Abstract` </span>  </summary> 
@@ -99,10 +99,28 @@ I focus on questions that sit within the union of macroeconomics, international 
   These results are analyzed through a model in which schooling, teenage labor, and occupational choice respond to wage growth, household production opportunities, and idiosyncratic risk. 
 </details>
 
+---
 
 ## Pre-Doctoral Research
 
-- "The effect of women’s entrepreneurship on corporate social responsibility" joint with [Jorge Dávalos](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000168211), [Maria Angela Prialé](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000018602), and [Frances Ninahuanca](https://www.linkedin.com/in/francesninahuanca/) <br />
+- "The effect of women’s entrepreneurship on corporate social responsibility" <br /> joint with [Jorge Dávalos](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000168211), [Maria Angela Prialé](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000018602), and [Frances Ninahuanca](https://www.linkedin.com/in/francesninahuanca/) <br />
 [Management Research](https://www.emerald.com/insight/content/doi/10.1108/MRJIAM-04-2023-1408/full/html) (2023)
+
 - "Effect of the increase of the educational supply on schooling and adolescent work in rural Peru". <br /> [Revista de
 Investigación Educativa Peruana](https://revistas.siep.org.pe/index.php/RPIE/article/view/129) No 12. pp. 53-86. 2020 [(Link to Original in Spanish)](https://revistas.siep.org.pe/index.php/RPIE/article/view/129)
+
+---
+
+## Teaching {#teaching}
+
+- **University of Michigan** - *Graduate Student Instructor*
+  + Quantitative Methods (Master’s): Fall 2023, Fall 2024 
+  + Applied Macroeconomics (Master’s): Winter 2024
+  + Growth Theory (Undergraduate): Winter 2026
+  + International Finance (Undergraduate): Winter 2025, Fall 2025
+  + Introduction to Macroeconomics (Undergraduate): Fall 2022, Winter 2023
+
+- **Universidad Nacional Mayor de San Marcos** - *Undergraduate Teaching Assistant*
+  + Introduction to Economics: 2014, 2017
+
+

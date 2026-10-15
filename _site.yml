@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Research"
       href: index.html#research
+    - text: "Teaching"
+      href: index.html#teaching
     - text: "CV"
       href: cv.html
     - text: "Resources"
@@ -20,8 +22,6 @@ navbar:
       href: https://twitter.com/bdazav
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/dazavbn/
-    - icon: fa-instagram fa-lg
-      href: https://www.instagram.com/bdazav/
 output:
   html_document:
     theme: journal
