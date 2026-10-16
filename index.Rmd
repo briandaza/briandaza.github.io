@@ -119,13 +119,21 @@ Investigación Educativa Peruana](https://revistas.siep.org.pe/index.php/RPIE/ar
 [Full Instructor Reports (From Fall 2022 to Winter 2026)](https://briandaza.github.io/teaching-evals/Daza,Brian-Teaching_evaluations-FA2022_toWN2026.pdf)
 
 - **University of Michigan** - *Graduate Student Instructor*
-  + Quantitative Methods (Master’s): Fall 2023, Fall 2024 
-  + Applied Macroeconomics (Master’s): Winter 2024
-  + Growth Theory (Undergraduate): Winter 2026
-  + International Finance (Undergraduate): Winter 2025, Fall 2025
-  + Introduction to Macroeconomics (Undergraduate): Fall 2022, Winter 2023
+  + Econ 500 - Quantitative Methods (Master’s): Fall 2023, Fall 2024 
+  + Econ 502 - Applied Macroeconomics (Master’s): Winter 2024
+  + Econ 414 - Growth Theory (Undergraduate): Winter 2026
+  + Econ 442 - International Finance (Undergraduate): Winter 2025, Fall 2025
+  + Econ 102 - Introduction to Macroeconomics (Undergraduate): Fall 2022, Winter 2023
 
 - **Universidad Nacional Mayor de San Marcos** - *Undergraduate Teaching Assistant*
   + Introduction to Economics: 2014, 2017
 
+<details>
+  <summary><span class="link-color"> `Music Playlists` </span>  </summary> 
+At the start of every semester, I ask my students to share some music recommendations with me. You can find their suggestions in the following links: [Econ 414 - Winter 2026](https://open.spotify.com/playlist/16scqkGSy7frrd73LToZ9F?si=0d938cee4cc94ca8)  · 
+[Econ 442 - Fall 2025](https://open.spotify.com/playlist/1Nw4Kx4nmHVIfwfFE66NNE?si=62af06d641644535)  · 
+[Econ 442 - Winter 2025](https://open.spotify.com/playlist/54XYJv7BA7mYrF26AgIqrR?si=4ab30aef2d32435d)  · 
+[Econ 500 - Fall  2023](https://open.spotify.com/playlist/4GAshUqgdN9FpzLsn7aUAt?si=8b483b75a97e4760)  · 
+[Econ 500 - Fall 2024](https://open.spotify.com/playlist/3cndvGiK5pdsdjPX349X1Q?si=8fdbc93f98054a14)
+</details>
 
