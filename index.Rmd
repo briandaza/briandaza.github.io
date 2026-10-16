@@ -41,7 +41,7 @@ title: `r title_var`
 
 <div class = "col-md-3" align="center">
 
-<img src="images/Brian-5.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/Brian-5-light.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
 
 </div>
 
@@ -60,6 +60,8 @@ I focus on questions that sit within the union of macroeconomics and internation
 
 <div style="height: 10pt;"></div>
 
+<br />
+
 [Job Market Paper](https://briandaza.github.io/papers/BD-TWD-WP.pdf)  · 
 [CV](https://briandaza.github.io/Brian%20Daza%20CV.pdf)
 
@@ -72,7 +74,7 @@ I focus on questions that sit within the union of macroeconomics and internation
 ## Job Market Paper {#research}
 
 **"Wealth Dynamics and Path Dependence"** <br />
-[Download](https://briandaza.github.io/papers/BD-TWD-WP.pdf)
+[Latest Draft](https://briandaza.github.io/papers/BD-TWD-WP.pdf)
 
 **Abstract:**  This paper shows that trade integration and financial constraints can make specialization history-dependent even when sectors have the same long-run productivity potential. 	When their long-run potentials differ, the same constraints slow the adjustment of production towards comparative advantage. I study these mechanisms in a dynamic multisector general equilibrium model with heterogeneous entrepreneurs facing persistent productivity shocks. Financial frictions make firms' ability to expand depend on their wealth, which connects sectoral production and growth to wealth distribution. In a closed economy, relative prices respond to scarcity: initially disadvantaged sectors become more profitable and catch up with initially favored sectors.	In an open economy, international markets limit this price response; initially favored sectors accumulate more wealth and account for larger long-run shares of production. I conduct a quantitative analysis using data on Peruvian firms, households, national accounts, tariffs, and international trade. The quantitative results confirm that in an environment with empirically informed features, financial frictions slow sectoral reallocation towards comparative advantage, and greater trade exposure reinforces the degree to which initial accumulation advantages translate into subsequent specialization.
 
@@ -81,7 +83,7 @@ I focus on questions that sit within the union of macroeconomics and internation
 ## Other Current Research
 
 - **"Government Spending Multipliers and Distribution of Commodity Booms in the Spatial Economy"** <br />
-[Latest Version (February, 2025)](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf)  · 
+[Latest Draft (February, 2025)](https://briandaza.github.io/papers/BD-GSMSE-WP.pdf)  · 
 [RSIE Discussion Paper 690](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r690.pdf)
 <details>
   <summary><span> `Abstract` </span>  </summary> 
